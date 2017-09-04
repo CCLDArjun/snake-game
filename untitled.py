@@ -1,4 +1,6 @@
 #snake game
+#Author : Arjun Bemarkar
+#Date : 09/04/2017
 
 import pygame
 import sys
